@@ -1,0 +1,19 @@
+{
+  "name": "sanov",
+  "version": "1.0.0",
+  "description": "OHIF Viewer packages into Electron.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/ada-s4c/sanov",
+  "keywords": [
+    "OHIF Viewer",
+    "Electron"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^26.0.0"
+  }
+}
